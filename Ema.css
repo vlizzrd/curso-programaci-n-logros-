@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.Ema_Luna {
+    background-color:#F8BFC8 ;
+}
+.Titulo1 {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    color: #30251f;
+    text-align: center;
+    display: flexbox;
+}
+.Texto1 {
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #30251f;
+    margin: 20px;
+}
+.foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+    size-adjust: 40px;
+}
