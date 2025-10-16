@@ -1,0 +1,9 @@
+
+.caja {
+   
+    width: 400px;
+    background-color: #eaf2f8; /* Color de fondo azul claro */
+    padding: 20px;
+    border: 2px solid #3498db;
+    margin: 30px;
+}

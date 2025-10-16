@@ -1,0 +1,17 @@
+
+.destacado {
+    background-color: yellow; 
+    font-weight: bold; 
+
+}
+#resumen {
+    font-style: italic; 
+    color: rgb(204, 50, 135); 
+}
+
+
+p {
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
